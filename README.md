@@ -20,9 +20,7 @@ The **Design a Parent-Teacher Conference Form** workshop demonstrates how to cre
 * HTML5
 * CSS3
 
-## 📷 Preview
 
-![Project Screenshot](screenshot.png)
 
 ## 📚 What I Learned
 
